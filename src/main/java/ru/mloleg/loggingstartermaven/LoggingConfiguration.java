@@ -1,4 +1,4 @@
-package ru.mloleg.logginstartermaven;
+package ru.mloleg.loggingstartermaven;
 
 public class LoggingConfiguration {
     public static void testLog() {
